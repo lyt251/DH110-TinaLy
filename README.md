@@ -10,3 +10,4 @@ With these special, stressful times and there being so much going on, it is impo
 
 ### App Choice no.1 : Mindful Living Network
 
+![mindful living network homepage](mindful.jpeg)
