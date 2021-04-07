@@ -52,7 +52,7 @@ Heuristic | Evaluation of App | Improvements (if applicable) | Sev. Rate
 
 ### Choice no.2 : [Mindful Website](https://www.mindful.org "Mindful Site")
 
-<img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/mindfulwebmain.png" width="800"> 
+<img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/mindfulwebmain.png" width="1200"> 
 
 
 <img src= "https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/mindfulwebpopup.png" width="500"> <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/mindfulweb_whatcanstressdo_article.png" width="500">  
