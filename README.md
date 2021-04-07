@@ -19,8 +19,9 @@ With these special, stressful times and there being so much going on, it is impo
 
 <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/mindful.jpeg" width="500">  <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/meditationroom.jpeg" width="500"> 
 
+<img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/podcasts.jpeg" width="500">  <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/podcastexample.jpeg" width="500"> 
 
-
+<img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/mindfulmovement.jpeg" width = "500">
 
 
 #### Brief Description
@@ -53,8 +54,13 @@ Heuristic | Evaluation of App | Improvements (if applicable) | Sev. Rate
 
 ### Choice no.2 : [Mindful Website](https://www.mindful.org "Mindful Site")
 
-<img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/mindful.jpeg" width="500">  <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/meditationroom.jpeg" width="500"> 
+<img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/mindfulwebmain.png" width="500">  <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/mindfulwebsearch.png" width="500"> 
 
+<img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/mindfulweblongdropdown.png" width="500">  <img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/mindfulwebpopup.png" width="500"> 
+
+<img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/mindfulweb_whatcanstressdo_article.png" width="500">  <img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/mindfulwebnoresults.png" width="500"> 
+  
+<img src = "https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/mindfulwebrequiredinfo.png" width = "400">
 
 #### Brief Description
 
