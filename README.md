@@ -10,9 +10,9 @@ With these special, stressful times and there being so much going on, it is impo
 
 ### Severity Ratings
 
-3 = Top Priority
-2  = Important to Fix
-1 = Small Inconvenience
+* 3 = Top Priority
+* 2  = Important to Fix
+* 1 = Small Inconvenience
 
 
 ### App Choice no.1 : [Mindful Living Network](https://apps.apple.com/us/app/mindful-living/id662903282 "Mindful Living Network App Download")
