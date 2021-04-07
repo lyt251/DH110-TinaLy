@@ -17,7 +17,7 @@ With these special, stressful times and there being so much going on, it is impo
 
 ### App Choice no.1 : [Mindful Living Network](https://apps.apple.com/us/app/mindful-living/id662903282 "Mindful Living Network App Download")
 
-<img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/mindful.jpeg" width="400"> <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/meditationroom.jpeg" width="400"> 
+<img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/mindful.jpeg" width="500">  <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/meditationroom.jpeg" width="500"> 
 
 
 
