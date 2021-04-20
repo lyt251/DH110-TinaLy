@@ -25,7 +25,7 @@ Unfortunately, my grandparents have passed away so I was unable to interview any
 
 * To view the inquiry guide, please use this [link](https://docs.google.com/document/d/1c-kaTyR3KyEVSyAj0b8ap6T7QfXL5dnDK53OaaUaato/edit?usp=sharing)
 * The recording of the inetrview is viewable through this [link](https://drive.google.com/file/d/18tIZzcUi-VsN7eENegPMF_Kh638iVA1s/view?usp=sharing)
-* The interview was transcribed and be accessed [here](https://docs.google.com/document/d/1IfCwpcIK95FBCS6Ecgi796FPBhAdM5-QwfIiPgySw0M/edit?usp=sharing)
+* The interview was transcribed and can be accessed [here](https://docs.google.com/document/d/1IfCwpcIK95FBCS6Ecgi796FPBhAdM5-QwfIiPgySw0M/edit?usp=sharing)
 
 ### Interesting Quotes/Facts 💬
 
