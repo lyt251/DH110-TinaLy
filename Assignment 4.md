@@ -9,7 +9,7 @@ Tina Ly | DH 110 | Spring 2021
 UX storytelling allows for better understanding of the context of the user. Without it, we may have a hard time placing ourselves in the shoes of the user. Feature improvements and ideas are then better tailored to the user experience. Hence, we can then create meaningful products. This technique allows for sharing of different point-of-views that might not have been realized before
 
 
-### Personas and Emapthy Maps
+### Personas and Empathy Maps
 
 From what I learned from my user interviews and research, some elderly may not favor going to doctor so I focused on two contrasting personalities and views on healthcare but they possess the lack of technological experience. 
 
