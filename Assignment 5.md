@@ -52,7 +52,7 @@ Navigating to the page with all the meditation videos was an easy task for my pa
 Again, the user was worked up with focusing on the screens so did not play careful detail to how reflection articles should be sorted by authors’ last names and ended up saying how they would filter the articles through inputting how they would like the articles to be sorted for all options. They also commented on how there was a lack of confirmation to whether or not the articles would automatically change as these options to sort the articles a certain way are made. As an improvement, the sort options will specify Authors’ Last Names A -> Z and there will be a note pressing any filters will sort it automatically.
 
 
-#### Summary
+### Summary
 
 Overall, this was definitely an interesting experience being able to physically see how the user would interact with the content of the application without taking into account any design measures. I do admit this was partly a setback because my participant was frequently bothered by the lack of color. I realized how some of the comments made by my user aligns with what we learned when performing a heuristic evaluation. For example, users want a sign of confirmation and should not be guessing certain actions. To have a seamless workflow, users should have cues and actions should be as effortless as possible by not requiring them to really remember information but rather easily recognize common elements.
 
