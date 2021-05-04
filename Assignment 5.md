@@ -20,7 +20,7 @@ Here is brief overview of the tasks that should be made based on the prototype:
 
 * Check language preference 
 * Find the recently uploaded video
-** Play video, save it, find captions for video, adjust volume
+(play video, save it, find captions for video, adjust volume)
 * Go back to main page to find a reflection article
 
 
