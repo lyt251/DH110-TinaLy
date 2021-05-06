@@ -26,7 +26,7 @@ Here is brief overview of the tasks that should be made based on the prototype:
 
 ### Prototype
 
-<img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/sketch.png" width="1000">  
+<img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/sketch3.png" width="1000">  
 
 Starting at the Home page, one can access and change the language preference by pressing the gears icon in the lower left-hand corner to go the Settings page and from there, by clicking or tapping on the arrow downwards key below the “Language Preference” heading, one can then select another language other than English. One would need to press the save button in the lower right-hand corner in order to save the language preference or any changes to the Settings page. To go back to the Home page, there is an arrow head pointing to the left in the upper left-hand corner of the Settings page that should be tapped on.
 
