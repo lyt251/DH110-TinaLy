@@ -70,7 +70,7 @@ Access the Figma Prototype [here](https://www.figma.com/proto/DQYDyb8Gm5FjaaHCEz
 
 <img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Overall%20Wireflow.png width="1000"> 
 
-### Changing wanguage preference
+### Changing language preference
 
 <img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Lang%20Preference%20Task.png width="1000"> 
 
@@ -93,10 +93,12 @@ I had my sister complete the tasks listed above using the prototype; the video o
 
 As a result, I had my sister walk through the tasks once again using the prototype after making the necessary changes and the video of that can be accessed [here](https://drive.google.com/file/d/1mciUC-c1I5ctatDJpeaxjekZh6spS9U-/view?usp=sharing). It went pretty smoothly except for a meditation video, she tried sliding the volume to see if she could adjust the volume. 
 
-### In-class
+### In-class Walkthrough
 
 
 
 ## Reflection
+
+Initially, when connecting the screens I connected it simply based on the wire flow. After receiving feedback based on the first and second run throughs, I further edited the prototype accordingly. I found it easier to edit my prototype and connect my screens while I was previewing the prototype on another tab to see it work. For example, while editing the features and icons for the Meditation video, I was planning to overlay the component over the screen but while previewing the prototype after I made that change, the screen reached a dead end after the overlay. As a result, instead of using an overlay, I ended up duplicating and altering  certain aspects of the screen and adding that to the flow. This allowed me easier manipulation when connecting other screens to the flow as well. During the cognitive walkthrough, I had not expected my sister to try physically adjusting the volume like a slide bar. Overall, the second run through went pretty well as she was able to identify the actions and icons needed to complete the tasks. Before the in-class cognitive walkthrough,  I tried creating a mockup of a sliding volume which involved creating several circles over the extended volume bar and then creating other states that show the varied lengths of the current volume. I also played around more with the transitions of the pages. For instance, subpages with a back button would transition in from the left or right and transition out the same way. Throughout the whole process from wireframing all screens to making changes to the interactions, I truly learned the importance of iteration. After making an interaction, I would notice how another interaction may be added and put myself in the users’ shoes to consider what they may click on first. 
 
 
