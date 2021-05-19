@@ -11,7 +11,7 @@ Be You is an app that builds and improves upon the features in the Mindful Livin
 ## Prototype Tasks
 
 * Changing Language Preference (ie from Spanish to English)
-* Watching a meditation video (adjusting its volume settings and adding captions)
+* Watching a meditation video (access the volume settings, adding captions)
 * Saving a meditation video
 * Filtering Reflection Articles by Author
 
@@ -59,3 +59,10 @@ What my classmates had to say about my prototype:
 Overall, I received positive feedback from my classmates who were able to identify the main purposes of the app. I did get a suggestion to provide an unsave button when users save a meditation video so to make it clearer to the user that all they had to do to unsave the video was click on the bookmark again, I decided to then display the saved video differently so that when the user lands on the Meditation video page, instead of a filled bookmark, there is a clearly displayed “Unsave” button. I also ended up adding some more space for the Meditation video page so that it was not too crowded between the button to see all saved videos and the heading “Recently Uploaded.” Lastly, I added a page to show the color change of the Home button when clicked on. The revised design can be viewed below.
 
 <img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Second%20Iteration%20Prototype.png width="1000"> 
+
+## Impression Test
+
+What my classmates had to say about my prototype:
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FDQYDyb8Gm5FjaaHCEz0uCD%2FDH-110-Spring-2021%3Fnode-id%3D66%253A663%26scaling%3Dscale-down%26page-id%3D66%253A0" allowfullscreen></iframe>
+
