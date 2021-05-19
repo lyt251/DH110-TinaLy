@@ -68,18 +68,30 @@ Access the Figma Prototype [here](https://www.figma.com/proto/DQYDyb8Gm5FjaaHCEz
 
 ### Overall
 
+<img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Overall%20Wireflow.png width="1000"> 
+
 ### Changing wanguage preference
+
+<img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Lang%20Preference%20Task.png width="1000"> 
 
 ### Finding meditation video, accessing its settings, and saving the video
 
+<img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Meditation%20Video%20Task.png width="1000"> 
+
 ### Finding the Reflection article and sorting by author
+
+<img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Article%20Filter%20Task.png width="1000"> 
 
 ## Cognitive Walkthrough
 
 ### First Runthrough
 
+I had my sister complete the tasks listed above using the prototype; the video of her walking through it the first time can be found [here](https://drive.google.com/file/d/1a6p3yF8kkVdH53F9N0ILMvmTJDLc_zhq/view?usp=sharing). We were not able to finish the tasks during this runthrough because we reached a dead end specifically when trying to adjust various Meditation video settings. I then discovered that a certain page was not connected so I altered my design and also added more interactions to ensure the prototype was working at when looking at the meditation video. I also connected the word "Back" as needed to the correpsoing screens because I noticed that after changing the language preference, she first clicked on the word "Back" before the arrow head pointing to the left.
+
 
 ### Second Runthrough
+
+As a result, I had my sister walk through the tasks once again using the prototype after making the necessary changes and the video of that can be accessed [here](https://drive.google.com/file/d/1mciUC-c1I5ctatDJpeaxjekZh6spS9U-/view?usp=sharing). It went pretty smoothly except for a meditation video, she tried sliding the volume to see if she could adjust the volume. 
 
 ### In-class
 
