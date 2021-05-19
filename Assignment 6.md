@@ -60,9 +60,31 @@ Overall, I received positive feedback from my classmates who were able to identi
 
 <img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Second%20Iteration%20Prototype.png width="1000"> 
 
-## Impression Test
+## Interactive Prototype
 
-What my classmates had to say about my prototype:
+Access the Figma Prototype [here](https://www.figma.com/proto/DQYDyb8Gm5FjaaHCEz0uCD/DH-110-Spring-2021?node-id=66%3A663&scaling=scale-down&page-id=66%3A0).
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FDQYDyb8Gm5FjaaHCEz0uCD%2FDH-110-Spring-2021%3Fnode-id%3D66%253A663%26scaling%3Dscale-down%26page-id%3D66%253A0" allowfullscreen></iframe>
+## Updated Wireflow
+
+### Overall
+
+### Changing wanguage preference
+
+### Finding meditation video, accessing its settings, and saving the video
+
+### Finding the Reflection article and sorting by author
+
+## Cognitive Walkthrough
+
+### First Runthrough
+
+
+### Second Runthrough
+
+### In-class
+
+
+
+## Reflection
+
 
