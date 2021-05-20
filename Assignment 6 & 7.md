@@ -1,6 +1,6 @@
 # Practicing Mindfulness in the Elderly Population
 
-## Assignment 6: UI Design and Prototyping
+## Assignment 6 and 7: UI Design and High-Fidelity Prototype
 
 Tina Ly | DH 110 | Spring 2021
 
