@@ -95,7 +95,7 @@ As a result, I had my sister walk through the tasks once again using the prototy
 
 ### In-class Walkthrough
 
-My classmates overall liked the color palette and simplicity. After describing the desired persona I was targeting, it made more sense to my classmates why I made the graphical choices. They suggested adding more labels to the back arrow and the filter for the Reflection articles page.
+My classmates overall liked the color palette and simplicity. After describing the desired persona I was targeting, it made more sense to my classmates why I made the graphical choices. They suggested adding more labels to the back arrow and the filter for the Reflection articles page and adding a filler message to the search bar. Consequently, I edited all the back arrows as such, added a label to the filter icon, and provided a filler message within the search bar on the Meditation page to clarify how videos are being presented.
 
 One of my classmates' testimony:
 
