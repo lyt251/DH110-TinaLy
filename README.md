@@ -19,8 +19,8 @@ Summary and link to the heuristics and usability testing of the existing product
 
 <table>
 <tr>
-<td> <img src=”url” height=”300px”> </td>
-<td> <img src=”url” height=”300px”> </td>
+<td> <img src=”url” width=”300px”> </td>
+<td> <img src=”url” width=”300px”> </td>
 </tr>
 </table>
 
