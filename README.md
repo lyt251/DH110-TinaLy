@@ -16,12 +16,14 @@ The purpose of my project is to allow senior citizens a more accessible, easy-to
 I performed a heuristic evaluation on the Mindful Living Network and a website called Mindful.
 Summary and link to the heuristics and usability testing of the existing product(s) - or the original website you evaluated
 
+
 <table>
 <tr>
 <td> <img src=”url” height=”300px”> </td>
 <td> <img src=”url” height=”300px”> </td>
 </tr>
 </table>
+
 
 [>> read more about the heuristic evaluations here]()
 
