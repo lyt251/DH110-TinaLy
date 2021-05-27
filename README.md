@@ -7,7 +7,10 @@ With these special, stressful times and there being so much going on, it is impo
 [>> read more about the introduction]()
 
 ### Design Statement
+Specifically, how can we create a platform that tailors to the elderly population that is easy to use and navigate?
+
 The purpose of my project is to allow senior citizens a more accessible, easy-to-use application showing how to meditate, decompress, and live a healthier life which is definitely needed during these difficult, special times when individuals may feel alone. Additionally, there is a stigma in regards to mental health especially among the Asian American communities; I hope to also turn this idea of mental health to be less taboo. Teaching and reminding seniors how to properly take care of themselves mentally and physically without feeling ashamed will improve their overall well-being.
+
 
 [>> read more about current issues of health-related applications]()
 
@@ -40,6 +43,8 @@ Summary and link to the sketches (may contains the multiple versions and evaluat
 
 ### High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FDQYDyb8Gm5FjaaHCEz0uCD%2FDH-110-Spring-2021%3Fnode-id%3D130%253A2294%26scaling%3Dscale-down%26page-id%3D130%253A1472" allowfullscreen></iframe>
 
 ### Optional evaluation and revision history
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
