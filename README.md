@@ -6,11 +6,11 @@ With these special, stressful times and there being so much going on, it is impo
 
 [>> read more about the introduction](https://github.com/lyt251/DH110-TinaLy/blob/main/Assignment%201/README.md)
 
-<a href="#" class="button">Post comment (link)</a>
+<a href="https://github.com/lyt251/DH110-TinaLy/blob/main/Assignment%201/README.md" class="button">Post comment (link)</a>
 <input class="button" type="submit" value="Post comment (input)">
 <button class="button" type="submit">Post comment (button)</button>
 
-<a href="#" class="button big">Create Project</a>
+<a href="https://github.com/lyt251/DH110-TinaLy/blob/main/Assignment%201/README.md" class="button big">Create Project</a>
 
 ### Design Statement
 Specifically, how can we create a platform that tailors to the elderly population that is easy to use and navigate?
