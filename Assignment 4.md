@@ -11,7 +11,7 @@ UX storytelling allows for better understanding of the context of the user. With
 
 ### Personas and Empathy Maps
 
-From what I learned from my user interviews and research, some elderly may not favor going to doctor so I focused on two contrasting personalities and views on healthcare but they possess the lack of technological experience. 
+From what I learned from my user interviews and research, some elderly may not favor going to the doctor so I focused on two contrasting personalities and views on healthcare but they possess the lack of technological experience. 
 
 <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Elizabeth%20Persona2.png" width="1000">  
 <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Elizabeth%20Empathy.png" width="950">  
