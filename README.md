@@ -101,11 +101,11 @@ The color contrasts tests showed that green in combination with a peach color, p
 
 When playing around with light versus dark modes, I found it better to use the HSL option in Figma to adjust the lightness and get the dark mode not as dark that it appears black as seen by the third set of screens in the left photo below. As for spacing, I made sure all headings were consistent and after the 100 px from the top edge of the screen unless there was a symbol such as the back icon on the screen.
 
-<img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/dark%20mode.png" width="600 px">
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/dark%20mode.png" width="600 px"></div>
 
 The picture below illustrates the basic outline of the color scheme I chose, the font types used as well as several inactive and active button states and the minimum size of icons used.
 
-<img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/color.png" width="600 px">
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/color.png" width="600 px"></div>
 
 [read more about the design decisions ➤](https://github.com/lyt251/DH110-TinaLy/blob/main/Assignment%206%20%26%207.md)
 
