@@ -30,6 +30,10 @@ The purpose of my project is to allow senior citizens a more accessible, easy-to
 </tr>
 </table>
 
+<div style="text-align:center">
+<img src=”https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/mindful.jpeg” width=”300px”> 
+<img src=”https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/mindfulwebmain.png” width=”300px”> 
+</div>
 
 I analyzed two different forms of wellness related platforms, in particular, an iPad app called *Mindful Living Network* and a website called *Mindful*. Both though did not possess the most ideal features for user control, consistent design, nor helped the user recover from error.  The website was more information-oriented with articles and many busy visuals. On the other hand, the Mindful Living application provides meditation videos in addition to podcasts, daily quotes, and relevant articles. 
 
@@ -55,8 +59,10 @@ Some traditional solutions are simply hobbies like knitting and baking but there
 
 From what I learned from my user interviews and research, some elderly may not favor going to the doctor so I focused on two *contrasting* personalities and views on healthcare but they possess the lack of technological experience. Pictured below is one of the two personas. 
 
-<img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Christopher%20Persona.png" width="800 px"> 
+  
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Christopher%20Persona.png" width="800 px"></div>
 
+  
 Nguyen is not the type of person to open up about his feelings nor health so faced many challenges on searching on the web for mental health resources but Be You allows him to plan his health journey with the reading guides and read health-related and specifically mental health and meditation articles without the hassle and effort of searching.
 
 [read more about the user personas ➤](https://github.com/lyt251/DH110-TinaLy/blob/main/Assignment%204.md)
