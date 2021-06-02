@@ -3,6 +3,7 @@
 
 ## Tina Ly
 
+
 ### Introduction <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%209.30.23%20PM.png" width="100 px">
 
 With these special, stressful times and there being so much going on, it is important to remember to be mindful of our mental and physical health. Restrictions on travel have affected families' usual visits to other family members especially the elderly, emphasizing these hard times. A research article found how isolation at home due to the pandemic may cause changes in an elderly’s habits and thus induce feelings of fear and anxiety ([Perrotta 2020](https://www.google.com/url?q=https://doi.org/10.1007/s40520-020-01631-y&sa=D&source=editors&ust=1622582543016000&usg=AOvVaw3KveBy4w4DobU6Rorunc4T)). As a result, to incorporate the idea of improving the well-being of senior citizens, I centralized my project around the elderly's point-of-view and how to improve their well-being through meditation exercises and clearing misinformation of health-related issues with articles. 
@@ -38,6 +39,7 @@ To better assess the flaws and evaluate its functions to improve the user experi
 
 [read more about the usability testing ➤](https://github.com/lyt251/DH110-TinaLy/blob/main/Assignment%202/README.md)
 
+
 ### User Research <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%209.30.23%20PM.png" width="100 px">
 
 Some traditional solutions are simply hobbies like knitting and baking but there have been more meditation technological applications, such as Calm, made to address the issue of maintaining one’s mental health. Many may watch videos on platforms like YouTube but these applications themselves are not specifically geared towards senior citizens. With digital technology, streaming meditation videos and getting well-being tips can be centralized and more accessible on the go with the range of potential audiences also being much greater. The advanced technology such as AI and VR today can also be incorporated to create a more engaging and interactive experience. 
@@ -48,15 +50,17 @@ Some traditional solutions are simply hobbies like knitting and baking but there
 
 [read more about the user research ➤](https://github.com/lyt251/DH110-TinaLy/blob/main/Assignment%203/Assignment%203.md)
 
+
 ### UX Storytelling <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%209.30.23%20PM.png" width="100 px">
 
 From what I learned from my user interviews and research, some elderly may not favor going to the doctor so I focused on two *contrasting* personalities and views on healthcare but they possess the lack of technological experience. Pictured below is one of the two personas. 
 
-<img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Christopher%20Persona.png" width="500 px"> <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Christopher%20Persona.png" width="500 px">
+<img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Christopher%20Persona.png" width="400 px"> <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Christopher%20Empathy.png" width="400 px">
 
 Nguyen is not the type of person to open up about his feelings nor health so faced many challenges on searching on the web for mental health resources but Be You allows him to plan his health journey with the reading guides and read health-related and specifically mental health and meditation articles without the hassle and effort of searching.
 
 [read more about the user personas ➤](https://github.com/lyt251/DH110-TinaLy/blob/main/Assignment%204.md)
+
 
 ### Low-fidelity Prototype <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%209.30.23%20PM.png" width="100 px">
 
@@ -75,6 +79,7 @@ When performing user testing with the low-fidelity prototype, it was interesting
 
 [read more about the low-fidelity prototype ➤](https://github.com/lyt251/DH110-TinaLy/blob/main/Assignment%205.md)
 
+
 ### Graphic Design Element Variation <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%209.30.23%20PM.png" width="100 px">
 
 Performing some outside research on which fonts are best for the elderly population, I found that it was best to have at least a 12 point font and not use any fonts that were extra fancy in any way ([Health Literacy 2016](https://health.gov/healthliteracyonline/display/section-3-3/)). As a result, I settled on the Open Sans font and all words on the app are **at least 30 point** font size. 
@@ -90,7 +95,9 @@ The color contrasts tests showed that green in combination with a peach color, p
 
 <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/dark%20mode.png" width="1000 px">
 
+
 ### Wireframe
+
 
 ### High-fidelity prototype (functional/interactive prototype, assignment08) <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%209.30.23%20PM.png" width="100 px">
 Summary statement and link to or an embedded prototype
