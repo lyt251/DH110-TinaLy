@@ -31,7 +31,7 @@ The purpose of my project is to allow senior citizens a more accessible, easy-to
 
 ### Competitor Analysis: Heuristic Evaluation <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%209.30.23%20PM.png" width="100 px">
 
-![](https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%2010.15.41%20PM.png)
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%2010.15.41%20PM.png" width="600 px"></div>
   
 I analyzed two different forms of wellness related platforms, in particular, an iPad app called *Mindful Living Network* and a website called *Mindful*. Both though did not possess the most ideal features for user control, consistent design, nor helped the user recover from error.  The website was more information-oriented with articles and many busy visuals. On the other hand, the Mindful Living application provides meditation videos in addition to podcasts, daily quotes, and relevant articles. 
 
@@ -59,7 +59,7 @@ A quote from my participant:
 
 From what I learned from my user interviews and research, some elderly may not favor going to the doctor so I focused on two *contrasting* personalities and views on healthcare but they possess the lack of technological experience. Pictured below is one of the two personas. 
 
-<div style="text-align:center"><img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Christopher%20Persona.png" width="500 px"></div>
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Christopher%20Persona.png" width="600 px"></div>
 
   
 Nguyen is not the type of person to open up about his feelings nor health so faced many challenges on searching on the web for mental health resources but Be You allows him to effortlessly plan his health journey as a non-native English speaker with the reading guides and read health-related and specifically mental health and meditation articles without the hassle and effort of searching.
@@ -70,7 +70,7 @@ Nguyen is not the type of person to open up about his feelings nor health so fac
 
 ### Low-fidelity Prototype <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%209.30.23%20PM.png" width="100 px">
 
-My intial low-fidelity sketch of the wireflow can be viewed below. 
+My intial low-fidelity sketchs of the wireflow can be viewed below. 
 
 <div style="text-align:center"><img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/sketch2.png" width="500 px"></div>
 <div style="text-align:center"><img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Wireflow%20draft.png" width="500 px"></div>
