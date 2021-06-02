@@ -140,18 +140,21 @@ Making the necessary changes after the impression test, I centralized my high fi
 
 1) Changing language preference
 
+![](https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Lang%20Preference%20Task.png)
 
 <div style="text-align:center"><img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Lang%20Preference%20Task.png width="600"></div>
 
 
 2) Finding meditation video, accessing its settings, and saving the video
 
+![](https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Meditation%20Video%20Task.png)
 
 <div style="text-align:center"><img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Meditation%20Video%20Task.png width="600"></div>
 
   
 3) Finding the Reflection article and sorting by author
 
+![](https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Article%20Filter%20Task.png)
   
 <div style="text-align:center"><img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Article%20Filter%20Task.png width="600"></div> 
 
@@ -184,21 +187,27 @@ Iterating on my design, I added author names to the Reflection articles page, en
 ### Finalized High-Fidelity Prototype <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%209.30.23%20PM.png" width="100 px">
 
 Final iteration of the flow:
+
+![](https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/final1.png)
+![](https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/final2.png)
+![](https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/final3.png)
+
 <div style="text-align:center"><img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/final1.png width="600"></div>
 <div style="text-align:center"><img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/final2.png width="600"></div>
 <div style="text-align:center"><img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/final3.png width="600"></div>
 
 Final drafts of the screens:
+
+![](https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/1.png)
+![](https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/2.png)
+![](https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/3.png)
+
 <div style="text-align:center"><img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/1.png width="600"></div>
 <div style="text-align:center"><img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/2.png width="600"></div>
 <div style="text-align:center"><img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/3.png width="600"></div>
 
 After all iterations and ensuring cues, symbols, headings were properly aligned and implemented:
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FDQYDyb8Gm5FjaaHCEz0uCD%2FDH-110-Spring-2021%3Fnode-id%3D130%253A2294%26scaling%3Dscale-down%26page-id%3D130%253A1472" allowfullscreen></iframe>
-
-
-
-### Pitch video <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%209.30.23%20PM.png" width="100 px">
 
 
 
