@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%209.21.19%20PM.png" width="600 px">
 
 
-## Tina Ly | [Pitch Video](https://drive.google.com/file/d/1Rw7X2SGASr9u21JUuEIQCySyMTEmKNjh/view?usp=sharing)
+## Tina Ly | [Pitch Video](https://drive.google.com/file/d/1Rw7X2SGASr9u21JUuEIQCySyMTEmKNjh/view?usp=sharing) 
 
-<img src="http://g.recordit.co/HB1J2HbkMZ.gif" width="300 px"><img src="http://g.recordit.co/HB1J2HbkMZ.gif" width="300 px"><img src="http://g.recordit.co/HB1J2HbkMZ.gif" width="300 px">
+<img src="http://g.recordit.co/HB1J2HbkMZ.gif" width="250 px"><img src="http://g.recordit.co/HB1J2HbkMZ.gif" width="250 px"><img src="http://g.recordit.co/HB1J2HbkMZ.gif" width="250 px">
 
 
 
@@ -227,6 +227,6 @@ During my usability tests, I found many relied on the visual changes in buttons 
 
 
 
-<img src="http://g.recordit.co/HB1J2HbkMZ.gif" width="300 px"><img src="http://g.recordit.co/HB1J2HbkMZ.gif" width="300 px"><img src="http://g.recordit.co/HB1J2HbkMZ.gif" width="300 px">
+<img src="http://g.recordit.co/HB1J2HbkMZ.gif" width="250 px"><img src="http://g.recordit.co/HB1J2HbkMZ.gif" width="250 px"><img src="http://g.recordit.co/HB1J2HbkMZ.gif" width="250 px">
  
  
