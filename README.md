@@ -139,12 +139,15 @@ Overall, I received positive feedback from my classmates who were able to identi
 Making the necessary changes after the impression test, I centralized my high fidelity mockup to support the following tasks:
 
 1) Changing language preference
+
 <img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Lang%20Preference%20Task.png width="600"> 
 
 2) Finding meditation video, accessing its settings, and saving the video
+
 <img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Meditation%20Video%20Task.png width="600"> 
 
 3) Finding the Reflection article and sorting by author
+
 <img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Article%20Filter%20Task.png width="600"> 
 
 
