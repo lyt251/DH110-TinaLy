@@ -3,11 +3,10 @@
 
 ## Tina Ly
 
-<div style="text-align:center">
-[◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦](https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Pitch%20Videp.png)
-[View Pitch Video](https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Pitch%20Videp.png)
-[◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦•◦](https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Pitch%20Videp.png)
-</div>
+[**>> View Pitch Video <<**](https://drive.google.com/file/d/1Rw7X2SGASr9u21JUuEIQCySyMTEmKNjh/view?usp=sharing) 
+
+<img src="http://g.recordit.co/HB1J2HbkMZ.gif" width="1000 px"> 
+
 
 
 ### Introduction <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%209.30.23%20PM.png" width="100 px">
