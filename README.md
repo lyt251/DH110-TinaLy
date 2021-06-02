@@ -31,9 +31,7 @@ The purpose of my project is to allow senior citizens a more accessible, easy-to
 
 ### Competitor Analysis: Heuristic Evaluation <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%209.30.23%20PM.png" width="100 px">
 
-<div style="text-align:center">
-<img src=”https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%2010.15.41%20PM.png” width=”600px”> 
-</div>
+<div style="text-align:center"><img src=”https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%2010.15.41%20PM.png” width=”600px”></div>
 
 I analyzed two different forms of wellness related platforms, in particular, an iPad app called *Mindful Living Network* and a website called *Mindful*. Both though did not possess the most ideal features for user control, consistent design, nor helped the user recover from error.  The website was more information-oriented with articles and many busy visuals. On the other hand, the Mindful Living application provides meditation videos in addition to podcasts, daily quotes, and relevant articles. 
 
@@ -53,7 +51,6 @@ Some traditional solutions are simply hobbies like knitting and baking but there
 
 "[T]he geriatric population aren't exactly technology inclined, and they're sometimes hard of hearing, or they can't see very well. So things need to be you know, visually, like larger or the sound needs to be louder for them to be able to use these platforms" 
 
-
 [read more about the user research ➤](https://github.com/lyt251/DH110-TinaLy/blob/main/Assignment%203/Assignment%203.md)
 
 
@@ -62,13 +59,13 @@ Some traditional solutions are simply hobbies like knitting and baking but there
 
 From what I learned from my user interviews and research, some elderly may not favor going to the doctor so I focused on two *contrasting* personalities and views on healthcare but they possess the lack of technological experience. Pictured below is one of the two personas. 
 
-  
 <div style="text-align:center"><img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Christopher%20Persona.png" width="500 px"></div>
 
   
 Nguyen is not the type of person to open up about his feelings nor health so faced many challenges on searching on the web for mental health resources but Be You allows him to plan his health journey with the reading guides and read health-related and specifically mental health and meditation articles without the hassle and effort of searching.
 
 [read more about the user personas ➤](https://github.com/lyt251/DH110-TinaLy/blob/main/Assignment%204.md)
+
 
 
 ### Low-fidelity Prototype <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%209.30.23%20PM.png" width="100 px">
@@ -100,7 +97,7 @@ I originally wanted to use a warm orange color for the background of all the scr
 
 The color contrasts tests showed that green in combination with a peach color, pale yellow, and white met all the levels of Web Content Accessibility Guidelines, including the high level WCAG AAA. Considering that my user would be a senior citizen, meeting this condition is essential.
 
-<div style="text-align:center"><img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/green%20orange%20color%20contrast.png" width="350 px"></div<div style="text-align:center"><img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/white%20green%20color%20contrast.png" width="350 px"></div>
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/green%20orange%20color%20contrast.png" width="350 px"></div><div style="text-align:center"><img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/white%20green%20color%20contrast.png" width="350 px"></div>
 
 When playing around with light versus dark modes, I found it better to use the HSL option in Figma to adjust the lightness and get the dark mode not as dark that it appears black as seen by the third set of screens in the left photo below. As for spacing, I made sure all headings were consistent and after the 100 px from the top edge of the screen unless there was a symbol such as the back icon on the screen.
 
