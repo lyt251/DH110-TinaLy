@@ -1,6 +1,7 @@
- [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit)
+ ![Screenshot](https://raw.githubusercontent.com/daviddarnes/alembic/master/screenshot.png)
+ 
 
-# Project Title
+# Be You
 ## Tina Ly
 
 ### Introduction
@@ -8,8 +9,8 @@ With these special, stressful times and there being so much going on, it is impo
 
 [>> read more about the introduction](https://github.com/lyt251/DH110-TinaLy/blob/main/Assignment%201/README.md)
 
-<a href="https://github.com/lyt251/DH110-TinaLy/blob/main/Assignment%201/README.md" class="button">Post comment (link)</a>
-<input class="button" type="submit" value="Post comment (input)">
+<a href="https://github.com/lyt251/DH110-TinaLy/blob/main/Assignment%201/README.md" class="button"><input class="button" type="submit" value="Read more about Introduction"></a>
+<input class="button" type="submit" value="Read more about Introduction">
 <button class="button" type="submit">Post comment (button)</button>
 
 <a href="https://github.com/lyt251/DH110-TinaLy/blob/main/Assignment%201/README.md" class="button big">Create Project</a>
