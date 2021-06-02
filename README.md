@@ -31,10 +31,6 @@ The purpose of my project is to allow senior citizens a more accessible, easy-to
 
 ### Competitor Analysis: Heuristic Evaluation <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%209.30.23%20PM.png" width="100 px">
 
-<div style="text-align:center"><img src=”https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%2010.15.41%20PM.png”></div>
-
-![](https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%2010.15.41%20PM.png)
-
 <div style="text-align:center">
 ![](https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%2010.15.41%20PM.png)
 </div>
