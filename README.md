@@ -62,7 +62,7 @@ From what I learned from my user interviews and research, some elderly may not f
 <div style="text-align:center"><img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Christopher%20Persona.png" width="500 px"></div>
 
   
-Nguyen is not the type of person to open up about his feelings nor health so faced many challenges on searching on the web for mental health resources but Be You allows him to plan his health journey with the reading guides and read health-related and specifically mental health and meditation articles without the hassle and effort of searching.
+Nguyen is not the type of person to open up about his feelings nor health so faced many challenges on searching on the web for mental health resources but Be You allows him to effortlessly plan his health journey as a non-native English speaker with the reading guides and read health-related and specifically mental health and meditation articles without the hassle and effort of searching.
 
 [read more about the user personas ➤](https://github.com/lyt251/DH110-TinaLy/blob/main/Assignment%204.md)
 
