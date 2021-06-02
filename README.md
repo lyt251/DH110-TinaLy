@@ -120,7 +120,7 @@ The prototype draft supports the following tasks:
 * Saving a meditation video
 * Filtering Reflection Articles by Author
 
-<div style="text-align:center"><img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/First%20Iteration%20Prototype.png width="800"></div>
+<div style="text-align:center"><img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/First%20Iteration%20Prototype.png width="600"></div>
 
 [read more about the initial design ➤](https://github.com/lyt251/DH110-TinaLy/blob/main/Assignment%206%20%26%207.md)
 
