@@ -15,7 +15,9 @@ With these special, stressful times and there being so much going on, it is impo
 <a href="https://github.com/lyt251/DH110-TinaLy/blob/main/Assignment%201/README.md" class="button big">Create Project</a>
 
 ### Design Statement
+<p align="center">
 *Specifically, how can we create a platform that tailors to the elderly population that is easy to use and navigate?*
+</p>
 
 The purpose of my project is to allow senior citizens a more accessible, easy-to-use application showing how to meditate, decompress, and live a healthier life which is definitely needed during these difficult, special times when individuals may feel alone. Additionally, there is a stigma in regards to mental health especially among the Asian American communities; I hope to also turn this idea of mental health to be less taboo. Teaching and reminding seniors how to properly take care of themselves mentally and physically without feeling ashamed will improve their overall well-being.
 https://github.com/lyt251/DH110-TinaLy/blob/main/Assignment%201/README.md 
