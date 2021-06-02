@@ -131,7 +131,9 @@ The prototype draft supports the following tasks:
 
 Overall, I received positive feedback from my classmates who were able to identify the main purposes of the app. I did get a suggestion to provide an unsave button when users save a meditation video so to make it clearer to the user that all they had to do to unsave the video was click on the bookmark again, I decided to then display the saved video differently so that when the user lands on the Meditation video page, instead of a filled bookmark, there is a clearly displayed “Unsave” button. I also ended up adding some more space for the Meditation video page so that it was not too crowded between the button to see all saved videos and the heading “Recently Uploaded.” Lastly, I added a page to show the color change of the Home button when clicked on. The revised design can be viewed below. 
 
-[read more about the design decisions ➤](https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Second%20Iteration%20Prototype.png)
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Second%20Iteration%20Prototype.png" width="500 px"></div>
+
+[read more about the design decisions ➤](https://github.com/lyt251/DH110-TinaLy/blob/main/Assignment%206%20%26%207.md)
 
 
 
@@ -154,12 +156,18 @@ Making the necessary changes after the impression test, I centralized my high fi
 <div style="text-align:center"><img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Article%20Filter%20Task.png" width="600 px"></div> 
 
 
+[read more about the interactive prototype ➤](https://github.com/lyt251/DH110-TinaLy/blob/main/Assignment%206%20%26%207.md)
+
+
 
 ### Cognitive Walkthrough <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%209.30.23%20PM.png" width="100 px">
 
 I first performed a cognitive walthrough with my sister. During the walkthrough with my sister, she ended up not reaching all the screens because one of the screens was not connected. After this was fixed, I was able to gain feedback on some suggestions to improve the interactions including making a separate volume state to illustrate an adjustment to the volume.
 
 I then ran through my prototype with a few of my classmates who overall liked the color palette and simplicity. They suggested adding more labels to the back arrow and the filter for the Reflection articles page and adding a filler message to the search bar. Consequently, I edited all the back arrows as such, added a label to the filter icon, and provided a filler message within the search bar on the Meditation page to clarify how videos are being presented.
+
+
+[read more about the cognitive walkthroughs ➤](https://github.com/lyt251/DH110-TinaLy/blob/main/Assignment%206%20%26%207.md)
 
 
 
@@ -176,6 +184,9 @@ My participant of this testing phase shared the following items that could impro
 
 She expected the volume settings to slide but for the purposes of the prototype, I wanted participants to be able to access the volume settings in a timely manner. It was also interesting that she noted the green to be a color that does not go well with red for color contrast but after the session, informing her of my evidence of color contrast and how no red is used as a background for this green or on this green reassured her how this would be elderly friendly. She overall liked the large font and suggested moving the titles of the buttons a bit on the Home Page and showing the authors of the articles. 
 Iterating on my design, I added author names to the Reflection articles page, ensured the heading on buttons were centered, and included at least a prominent difference in volume settings to indicate a lower volume.
+
+
+[read more about the usability testing ➤](https://github.com/lyt251/DH110-TinaLy/blob/main/Extra-Usability%20Testing.md)
 
 
 
