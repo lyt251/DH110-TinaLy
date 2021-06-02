@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%209.21.19%20PM.png" width="600 px">
 
-
+<img src=”https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%2010.15.41%20PM.png” width=”600px”>
 ## Tina Ly
 
 
@@ -31,7 +31,7 @@ The purpose of my project is to allow senior citizens a more accessible, easy-to
 
 ### Competitor Analysis: Heuristic Evaluation <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%209.30.23%20PM.png" width="100 px">
 
-<div style="text-align:center"><img src=”https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%2010.15.41%20PM.png” width=”600px”></div>
+<div style="text-align:center"> <img src=”https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%2010.15.41%20PM.png” width=”600px”> </div>
 
 I analyzed two different forms of wellness related platforms, in particular, an iPad app called *Mindful Living Network* and a website called *Mindful*. Both though did not possess the most ideal features for user control, consistent design, nor helped the user recover from error.  The website was more information-oriented with articles and many busy visuals. On the other hand, the Mindful Living application provides meditation videos in addition to podcasts, daily quotes, and relevant articles. 
 
