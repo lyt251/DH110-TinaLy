@@ -47,7 +47,7 @@ To better assess the flaws and evaluate its functions to improve the user experi
 
 Some traditional solutions are simply hobbies like knitting and baking but there have been more meditation technological applications, such as Calm, made to address the issue of maintaining one’s mental health. Many may watch videos on platforms like YouTube but these applications themselves are not specifically geared towards senior citizens. With digital technology, streaming meditation videos and getting well-being tips can be centralized and more accessible on the go with the range of potential audiences also being much greater. The advanced technology such as AI and VR today can also be incorporated to create a more engaging and interactive experience. 
 
-*A quote from my participant:*
+A quote from my participant:
 
 "[T]he geriatric population aren't exactly technology inclined, and they're sometimes hard of hearing, or they can't see very well. So things need to be you know, visually, like larger or the sound needs to be louder for them to be able to use these platforms" 
 
