@@ -86,7 +86,7 @@ Access the Figma Prototype [here](https://www.figma.com/proto/DQYDyb8Gm5FjaaHCEz
 
 ### First Runthrough
 
-I had my sister complete the tasks listed above using the prototype; the video of her walking through it the first time can be found [here](https://drive.google.com/file/d/1a6p3yF8kkVdH53F9N0ILMvmTJDLc_zhq/view?usp=sharing). We were not able to finish the tasks during this runthrough because we reached a dead end specifically when trying to adjust various Meditation video settings. I then discovered that a certain page was not connected so I altered my design and also added more interactions to ensure the prototype was working at when looking at the meditation video. I also connected the word "Back" as needed to the correpsoing screens because I noticed that after changing the language preference, she first clicked on the word "Back" before the arrow head pointing to the left.
+I had my sister complete the tasks listed above using the prototype; the video of her walking through it the first time can be found [here](https://drive.google.com/file/d/1a6p3yF8kkVdH53F9N0ILMvmTJDLc_zhq/view?usp=sharing). We were not able to finish the tasks during this runthrough because we reached a dead end specifically when trying to adjust various Meditation video settings. I then discovered that a certain page was not connected so I altered my design and also added more interactions to ensure the prototype was working at when looking at the meditation video. I also connected the word "Back" as needed to the corresponding screens because I noticed that after changing the language preference, she first clicked on the word "Back" before the arrow head pointing to the left.
 
 
 ### Second Runthrough
