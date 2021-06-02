@@ -1,4 +1,6 @@
-# Be You
+<img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%209.13.08%20PM.png" width="300 px">
+
+
 ## Tina Ly
 
 ### Introduction
