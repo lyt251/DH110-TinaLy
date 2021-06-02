@@ -90,7 +90,7 @@ When performing user testing with the low-fidelity prototype, it was interesting
 
 Performing some outside research on which fonts are best for the elderly population, I found that it was best to have at least a 12 point font and not use any fonts that were extra fancy in any way ([Health Literacy 2016](https://health.gov/healthliteracyonline/display/section-3-3/)). As a result, I settled on the Open Sans font and all words on the app are **at least 30 point** font size. 
 
-I originally wanted to use a warm orange color for the background of all the screens but white font on an orange background failed the color contrast test as displayed in the image. Instead, green was used for the background because I found that the color green is associated with being restful and healthy and is easier on the eyes ([Mark@ElderTech 2017](https://eldertech.org/color-in-designing-technology-for-seniors/). 
+I originally wanted to use a warm orange color for the background of all the screens but white font on an orange background failed the color contrast test as displayed in the image. Instead, green was used for the background because I found that the color green is associated with being restful and healthy and is easier on the eyes ([Mark@ElderTech 2017](https://eldertech.org/color-in-designing-technology-for-seniors/)). 
 
 <div style="text-align:center"><img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/orange%20color%20contrast.png" width="600 px"></div>
 
