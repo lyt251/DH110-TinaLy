@@ -150,22 +150,46 @@ Making the necessary changes after the impression test, I centralized my high fi
 3) Finding the Reflection article and sorting by author
 <img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Article%20Filter%20Task.png width="600"> 
 
+
+
 ### Cognitive Walkthrough
 
 I first performed a cognitive walthrough with my sister. During the walkthrough with my sister, she ended up not reaching all the screens because one of the screens was not connected. After this was fixed, I was able to gain feedback on some suggestions to improve the interactions including making a separate volume state to illustrate an adjustment to the volume.
 
 I then ran through my prototype with a few of my classmates who overall liked the color palette and simplicity. They suggested adding more labels to the back arrow and the filter for the Reflection articles page and adding a filler message to the search bar. Consequently, I edited all the back arrows as such, added a label to the filter icon, and provided a filler message within the search bar on the Meditation page to clarify how videos are being presented.
 
+### Further Usability Testing
+
+<iframe src="https://drive.google.com/file/d/1xnW22dF15-KPLJJv70CS78Ei3e70wE1v/preview" width="640" height="480"></iframe>
+
+Written responses of the session can be viewed [here](https://docs.google.com/spreadsheets/d/17WglkT1YAJFP9OdAA5nHIz2sUgvsbYLV4YAsfOTTMcI/edit?usp=sharing)
+
+My participant of this testing phase shared the following items that could improved:
+
+- Words slightly not centered on Home Page
+- No authors listed on Reflection articles page
+
+She expected the volume settings to slide but for the purposes of the prototype, I wanted participants to be able to access the volume settings in a timely manner. It was also interesting that she noted the green to be a color that does not go well with red for color contrast but after the session, informing her of my evidence of color contrast and how no red is used as a background for this green or on this green reassured her how this would be elderly friendly. She overall liked the large font and suggested moving the titles of the buttons a bit on the Home Page and showing the authors of the articles. 
+Iterating on my design, I added author names to the Reflection articles page, ensured the heading on buttons were centered, and included at least a prominent difference in volume settings to indicate a lower volume.
+
 
 
 ### Finalized High-Fidelity Prototype <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%209.30.23%20PM.png" width="100 px">
 
+After all iterations and ensuring cues, symbols, headings were properly aligned and implemented:
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FDQYDyb8Gm5FjaaHCEz0uCD%2FDH-110-Spring-2021%3Fnode-id%3D130%253A2294%26scaling%3Dscale-down%26page-id%3D130%253A1472" allowfullscreen></iframe>
 
-### Optional evaluation and revision history <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%209.30.23%20PM.png" width="100 px">
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+
 
 ### Pitch video <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%209.30.23%20PM.png" width="100 px">
 
+
+
 ### Conclusion <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%209.30.23%20PM.png" width="100 px">
-What did you learn throughout the process?
+
+* Iteration is key to designing.
+
+After receiving feedback based on the first and second cognitive run throughs, I further edited the prototype accordingly and learned several technical skills in regards to prototyping. I found it easier to edit my prototype and connect my screens while I was previewing the prototype on another tab to see it work. For example, while editing the features and icons for the Meditation video, I was planning to overlay the component over the screen but while previewing the prototype after I made that change, the screen reached a dead end after the overlay. As a result, instead of using an overlay, I ended up duplicating and altering  certain aspects of the screen and adding that to the flow. This allowed me easier manipulation when connecting other screens to the flow as well.
+
+* 
+
