@@ -73,6 +73,7 @@ Nguyen is not the type of person to open up about his feelings nor health so fac
 My intial low-fidelity sketch of the wireflow can be viewed below. 
 
 <div style="text-align:center"><img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/sketch2.png" width="500 px"></div>
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Wireflow%20draft.png" width="500 px"></div>
 
 Considering what I learned from my user research and what struggles the elderly may currently face when trying to improve their well-being, I focused the main features of the low-fidelity on the following topics: 
 
@@ -120,7 +121,7 @@ The prototype draft supports the following tasks:
 * Saving a meditation video
 * Filtering Reflection Articles by Author
 
-<div style="text-align:center"><img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/First%20Iteration%20Prototype.png width="600"></div>
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/First%20Iteration%20Prototype.png width"="500"></div>
 
 [read more about the initial design ➤](https://github.com/lyt251/DH110-TinaLy/blob/main/Assignment%206%20%26%207.md)
 
@@ -188,23 +189,15 @@ Iterating on my design, I added author names to the Reflection articles page, en
 
 Final iteration of the flow:
 
-![](https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/final1.png)
-![](https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/final2.png)
-![](https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/final3.png)
-
-<div style="text-align:center"><img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/final1.png width="600"></div>
-<div style="text-align:center"><img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/final2.png width="600"></div>
-<div style="text-align:center"><img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/final3.png width="600"></div>
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/final1.png" width="600"></div>
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/final2.png" width="600"></div>
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/final3.png" width="600"></div>
 
 Final drafts of the screens:
 
-![](https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/1.png)
-![](https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/2.png)
-![](https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/3.png)
-
-<div style="text-align:center"><img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/1.png width="600"></div>
-<div style="text-align:center"><img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/2.png width="600"></div>
-<div style="text-align:center"><img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/3.png width="600"></div>
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/1.png" width="600"></div>
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/2.png" width="600"></div>
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/3.png" width="600"></div>
 
 After all iterations and ensuring cues, symbols, headings were properly aligned and implemented:
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FDQYDyb8Gm5FjaaHCEz0uCD%2FDH-110-Spring-2021%3Fnode-id%3D130%253A2294%26scaling%3Dscale-down%26page-id%3D130%253A1472" allowfullscreen></iframe>
