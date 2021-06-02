@@ -147,7 +147,7 @@ Making the necessary changes after the impression test, I centralized my high fi
 2) Finding meditation video, accessing its settings, and saving the video
 
 
-<div style="text-align:center"><img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Meditation%20Video%20Task.png width="600">v
+<div style="text-align:center"><img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Meditation%20Video%20Task.png width="600"></div>
 
   
 3) Finding the Reflection article and sorting by author
