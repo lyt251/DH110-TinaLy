@@ -183,12 +183,12 @@ Iterating on my design, I added author names to the Reflection articles page, en
 
 ### Finalized High-Fidelity Prototype <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%209.30.23%20PM.png" width="100 px">
 
-The final iteration of the flow:
+Final iteration of the flow:
 <div style="text-align:center"><img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/final1.png width="600"></div>
 <div style="text-align:center"><img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/final2.png width="600"></div>
 <div style="text-align:center"><img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/final3.png width="600"></div>
 
-Final drafts of screens:
+Final drafts of the screens:
 <div style="text-align:center"><img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/1.png width="600"></div>
 <div style="text-align:center"><img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/2.png width="600"></div>
 <div style="text-align:center"><img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/3.png width="600"></div>
@@ -204,9 +204,16 @@ After all iterations and ensuring cues, symbols, headings were properly aligned 
 
 ### Conclusion <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%209.30.23%20PM.png" width="100 px">
 
-* Iteration is key to designing.
+* Design is an iterative process.
 
-After receiving feedback based on the first and second cognitive run throughs, I further edited the prototype accordingly and learned several technical skills in regards to prototyping. I found it easier to edit my prototype and connect my screens while I was previewing the prototype on another tab to see it work. For example, while editing the features and icons for the Meditation video, I was planning to overlay the component over the screen but while previewing the prototype after I made that change, the screen reached a dead end after the overlay. As a result, instead of using an overlay, I ended up duplicating and altering  certain aspects of the screen and adding that to the flow. This allowed me easier manipulation when connecting other screens to the flow as well.
+The whole process from ideating to creating was an enojyable process and I loved learning and experimenting with Figma. For instance, after receiving feedback based on the first and second cognitive run throughs, I further edited the prototype accordingly. Other suggestion would also come to me after user interviews that may not have been mentioned during the interviews but were influenced by what I observed. I found it easier to edit my prototype and connect my screens while I was previewing the prototype on another tab to see it work. For example, while editing the features and icons for the Meditation video, I was planning to overlay the component over the screen but while previewing the prototype after I made that change, the screen reached a dead end after the overlay. As a result, instead of using an overlay, I ended up duplicating and altering  certain aspects of the screen and adding that to the flow. This allowed me easier manipulation when connecting other screens to the flow as well.
 
-* 
+* Make the user journey as intuitive and easy as possible.
 
+During my usability tests, I found many relied on the visual changes in buttons as well as written notifications to move onto the next step. As a result, I had to ensure all buttons had a hovering state with a name of what that button was for. When an action was made, no matter how small including saving the settings, I had to make sure to include a distinct change to the save option with a written confirmation.
+
+* Prototype with components.
+
+ I learned several technical skills in regards to prototyping and prototyping with components was one of them. I was not able to utilize a lot of compoents due to having wireframed most of the screens before realizing making components would be more effective. Consequently, when designing in the future, I would want to plan out all buttons and their states ahead of time along with the general layout that will be consistently used. This would have speeded the process when editing the titles of the buttons so I would have to manually go in and edit each one for each screen.
+ 
+ 
