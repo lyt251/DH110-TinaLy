@@ -183,6 +183,16 @@ Iterating on my design, I added author names to the Reflection articles page, en
 
 ### Finalized High-Fidelity Prototype <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%209.30.23%20PM.png" width="100 px">
 
+The final iteration of the flow:
+<div style="text-align:center"><img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/final1.png width="600"></div>
+<div style="text-align:center"><img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/final2.png width="600"></div>
+<div style="text-align:center"><img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/final3.png width="600"></div>
+
+Final drafts of screens:
+<div style="text-align:center"><img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/1.png width="600"></div>
+<div style="text-align:center"><img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/2.png width="600"></div>
+<div style="text-align:center"><img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/3.png width="600"></div>
+
 After all iterations and ensuring cues, symbols, headings were properly aligned and implemented:
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FDQYDyb8Gm5FjaaHCEz0uCD%2FDH-110-Spring-2021%3Fnode-id%3D130%253A2294%26scaling%3Dscale-down%26page-id%3D130%253A1472" allowfullscreen></iframe>
 
