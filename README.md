@@ -1,6 +1,4 @@
-[![Gem Version](https://badge.fury.io/rb/alembic-jekyll-theme.svg)](https://badge.fury.io/rb/alembic-jekyll-theme)
-
-⚗ A Jekyll boilerplate theme designed to be a starting point for any Jekyll website.
+ [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit)
 
 # Project Title
 ## Tina Ly
