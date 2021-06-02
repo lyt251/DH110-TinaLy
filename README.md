@@ -1,12 +1,10 @@
-<img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%208.15.54%20PM.png" width="1000">  
-
 # Be You
 ## Tina Ly
 
 ### Introduction
 With these special, stressful times and there being so much going on, it is important to remember to be mindful of our mental and physical health. Restrictions on travel have affected families' usual visits to other family members especially the elderly, emphasizing these hard times. A research article found how isolation at home due to the pandemic may cause changes in an elderly’s habits and thus induce feelings of fear and anxiety ([Perrotta 2020](https://www.google.com/url?q=https://doi.org/10.1007/s40520-020-01631-y&sa=D&source=editors&ust=1622582543016000&usg=AOvVaw3KveBy4w4DobU6Rorunc4T)). As a result, to incorporate the idea of improving the well-being of senior citizens, I centralized my project around the elderly's point-of-view and how to improve their well-being through meditation exercises and clearing misinformation of health-related issues with articles. 
 
-[>> read more about the introduction](https://github.com/lyt251/DH110-TinaLy/blob/main/Assignment%201/README.md)
+[🌱 read more about the introduction](https://github.com/lyt251/DH110-TinaLy/blob/main/Assignment%201/README.md)
 
 <a href="https://github.com/lyt251/DH110-TinaLy/blob/main/Assignment%201/README.md" class="button"><input class="button" type="submit" value="Read more about Introduction"></a>
 <input class="button" type="submit" value="Read more about Introduction">
@@ -15,9 +13,11 @@ With these special, stressful times and there being so much going on, it is impo
 <a href="https://github.com/lyt251/DH110-TinaLy/blob/main/Assignment%201/README.md" class="button big">Create Project</a>
 
 ### Design Statement
-Specifically, how can we create a platform that tailors to the elderly population that is easy to use and navigate?
+*Specifically, how can we create a platform that tailors to the elderly population that is easy to use and navigate?*
 
 The purpose of my project is to allow senior citizens a more accessible, easy-to-use application showing how to meditate, decompress, and live a healthier life which is definitely needed during these difficult, special times when individuals may feel alone. Additionally, there is a stigma in regards to mental health especially among the Asian American communities; I hope to also turn this idea of mental health to be less taboo. Teaching and reminding seniors how to properly take care of themselves mentally and physically without feeling ashamed will improve their overall well-being.
+https://github.com/lyt251/DH110-TinaLy/blob/main/Assignment%201/README.md 
+
 
 
 [>> read more about current issues of health-related applications]()
