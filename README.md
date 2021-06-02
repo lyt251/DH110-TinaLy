@@ -89,27 +89,76 @@ When performing user testing with the low-fidelity prototype, it was interesting
 [read more about the low-fidelity prototype ➤](https://github.com/lyt251/DH110-TinaLy/blob/main/Assignment%205.md)
 
 
+
 ### Graphic Design Element Variation <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%209.30.23%20PM.png" width="100 px">
 
 Performing some outside research on which fonts are best for the elderly population, I found that it was best to have at least a 12 point font and not use any fonts that were extra fancy in any way ([Health Literacy 2016](https://health.gov/healthliteracyonline/display/section-3-3/)). As a result, I settled on the Open Sans font and all words on the app are **at least 30 point** font size. 
 
 I originally wanted to use a warm orange color for the background of all the screens but white font on an orange background failed the color contrast test as displayed in the image. Instead, green was used for the background because I found that the color green is associated with being restful and healthy and is easier on the eyes ([Mark@ElderTech 2017](https://eldertech.org/color-in-designing-technology-for-seniors/). 
 
-<div style="text-align:center"><img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/orange%20color%20contrast.png" width="1000 px"></div>
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/orange%20color%20contrast.png" width="600 px"></div>
 
 The color contrasts tests showed that green in combination with a peach color, pale yellow, and white met all the levels of Web Content Accessibility Guidelines, including the high level WCAG AAA. Considering that my user would be a senior citizen, meeting this condition is essential.
 
-<div style="text-align:center"><img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/green%20orange%20color%20contrast.png" width="1000 px"></div>
-<div style="text-align:center"><img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/white%20green%20color%20contrast.png" width="1000 px"></div>
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/green%20orange%20color%20contrast.png" width="350 px"></div><div style="text-align:center"><img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/white%20green%20color%20contrast.png" width="350 px"></div>
 
-<img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/dark%20mode.png" width="1000 px">
+When playing around with light versus dark modes, I found it better to use the HSL option in Figma to adjust the lightness and get the dark mode not as dark that it appears black as seen by the third set of screens in the left photo below. As for spacing, I made sure all headings were consistent and after the 100 px from the top edge of the screen unless there was a symbol such as the back icon on the screen.
+
+<img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/dark%20mode.png" width="600 px">
+
+The picture below illustrates the basic outline of the color scheme I chose, the font types used as well as several inactive and active button states and the minimum size of icons used.
+
+<img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/color.png" width="600 px">
+
+[read more about the design decisions ➤](https://github.com/lyt251/DH110-TinaLy/blob/main/Assignment%206%20%26%207.md)
 
 
-### Wireframe
+
+### Initial Prototype
+
+The prototype draft supports the following tasks:
+
+* Changing Language Preference (ie from Spanish to English)
+* Watching a meditation video (access the volume settings, adding captions)
+* Saving a meditation video
+* Filtering Reflection Articles by Author
+
+<img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/First%20Iteration%20Prototype.png width="1000"> 
+
+[read more about the initial design ➤](https://github.com/lyt251/DH110-TinaLy/blob/main/Assignment%206%20%26%207.md)
 
 
-### High-fidelity prototype (functional/interactive prototype, assignment08) <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%209.30.23%20PM.png" width="100 px">
-Summary statement and link to or an embedded prototype
+
+### Impression Test
+
+Overall, I received positive feedback from my classmates who were able to identify the main purposes of the app. I did get a suggestion to provide an unsave button when users save a meditation video so to make it clearer to the user that all they had to do to unsave the video was click on the bookmark again, I decided to then display the saved video differently so that when the user lands on the Meditation video page, instead of a filled bookmark, there is a clearly displayed “Unsave” button. I also ended up adding some more space for the Meditation video page so that it was not too crowded between the button to see all saved videos and the heading “Recently Uploaded.” Lastly, I added a page to show the color change of the Home button when clicked on. The revised design can be viewed below. 
+
+[read more about the design decisions ➤](https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Second%20Iteration%20Prototype.png)
+
+
+
+### More Interactive Prototype
+
+Making the necessary changes after the impression test, I centralized my high fidelity mockup to support the following tasks:
+
+1) Changing language preference
+<img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Lang%20Preference%20Task.png width="600"> 
+
+2) Finding meditation video, accessing its settings, and saving the video
+<img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Meditation%20Video%20Task.png width="600"> 
+
+3) Finding the Reflection article and sorting by author
+<img src=https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Article%20Filter%20Task.png width="600"> 
+
+### Cognitive Walkthrough
+
+I first performed a cognitive walthrough with my sister. During the walkthrough with my sister, she ended up not reaching all the screens because one of the screens was not connected. After this was fixed, I was able to gain feedback on some suggestions to improve the interactions including making a separate volume state to illustrate an adjustment to the volume.
+
+I then ran through my prototype with a few of my classmates who overall liked the color palette and simplicity. They suggested adding more labels to the back arrow and the filter for the Reflection articles page and adding a filler message to the search bar. Consequently, I edited all the back arrows as such, added a label to the filter icon, and provided a filler message within the search bar on the Meditation page to clarify how videos are being presented.
+
+
+
+### Finalized High-Fidelity Prototype <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%209.30.23%20PM.png" width="100 px">
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FDQYDyb8Gm5FjaaHCEz0uCD%2FDH-110-Spring-2021%3Fnode-id%3D130%253A2294%26scaling%3Dscale-down%26page-id%3D130%253A1472" allowfullscreen></iframe>
 
