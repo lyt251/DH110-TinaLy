@@ -96,7 +96,7 @@ I originally wanted to use a warm orange color for the background of all the scr
 
 The color contrasts tests showed that green in combination with a peach color, pale yellow, and white met all the levels of Web Content Accessibility Guidelines, including the high level WCAG AAA. Considering that my user would be a senior citizen, meeting this condition is essential.
 
-<div style="text-align:center"><img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/green%20orange%20color%20contrast.png" width="350 px"></div><div style="text-align:center"><img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/white%20green%20color%20contrast.png" width="350 px"></div>
+<img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/green%20orange%20color%20contrast.png" width="350 px"><img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/white%20green%20color%20contrast.png" width="350 px">
 
 When playing around with light versus dark modes, I found it better to use the HSL option in Figma to adjust the lightness and get the dark mode not as dark that it appears black as seen by the third set of screens in the left photo below. As for spacing, I made sure all headings were consistent and after the 100 px from the top edge of the screen unless there was a symbol such as the back icon on the screen.
 
