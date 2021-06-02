@@ -1,5 +1,4 @@
- ![Screenshot](https://raw.githubusercontent.com/daviddarnes/alembic/master/screenshot.png)
- 
+<img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%208.15.54%20PM.png" width="1000">  
 
 # Be You
 ## Tina Ly
