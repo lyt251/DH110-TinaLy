@@ -93,7 +93,7 @@ Performing some outside research on which fonts are best for the elderly populat
 
 I originally wanted to use a warm orange color for the background of all the screens but white font on an orange background failed the color contrast test as displayed in the image. Instead, green was used for the background because I found that the color green is associated with being restful and healthy and is easier on the eyes ([Mark@ElderTech 2017](https://eldertech.org/color-in-designing-technology-for-seniors/)). 
 
-<div style="text-align:center"><img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/orange%20color%20contrast.png" width="600 px"></div>
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/orange%20color%20contrast.png" width="500 px"></div>
 
 The color contrasts tests showed that green in combination with a peach color, pale yellow, and white met all the levels of Web Content Accessibility Guidelines, including the high level WCAG AAA. Considering that my user would be a senior citizen, meeting this condition is essential.
 
