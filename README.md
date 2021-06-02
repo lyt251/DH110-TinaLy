@@ -4,11 +4,14 @@
 ## Tina Ly
 
 
+
 ### Introduction <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%209.30.23%20PM.png" width="100 px">
 
 With these special, stressful times and there being so much going on, it is important to remember to be mindful of our mental and physical health. Restrictions on travel have affected families' usual visits to other family members especially the elderly, emphasizing these hard times. A research article found how isolation at home due to the pandemic may cause changes in an elderly’s habits and thus induce feelings of fear and anxiety ([Perrotta 2020](https://www.google.com/url?q=https://doi.org/10.1007/s40520-020-01631-y&sa=D&source=editors&ust=1622582543016000&usg=AOvVaw3KveBy4w4DobU6Rorunc4T)). As a result, to incorporate the idea of improving the well-being of senior citizens, I centralized my project around the elderly's point-of-view and how to improve their well-being through meditation exercises and clearing misinformation of health-related issues with articles. 
 
 [read more about the introduction ➤](https://github.com/lyt251/DH110-TinaLy/blob/main/Assignment%201/README.md)
+
+
 
 ### Design Statement <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%209.30.23%20PM.png" width="100 px">
 <p align="center">
@@ -18,6 +21,7 @@ Specifically, how can we create a platform that tailors to the elderly populatio
 The purpose of my project is to allow senior citizens a more accessible, easy-to-use application showing how to meditate, decompress, and live a healthier life which is definitely needed during these difficult, special times when individuals may feel alone. Additionally, there is a stigma in regards to mental health especially among the Asian American communities; I hope to also turn this idea of mental health to be less taboo. Teaching and reminding seniors how to properly take care of themselves mentally and physically without feeling ashamed will improve their overall well-being.
 
 [read more about current issues of health-related applications ➤](https://github.com/lyt251/DH110-TinaLy/blob/main/Assignment%201/README.md )
+
 
 
 ### Competitor Analysis: Heuristic Evaluation <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%209.30.23%20PM.png" width="100 px">
@@ -42,6 +46,7 @@ I analyzed two different forms of wellness related platforms, in particular, an 
 To better assess the flaws and evaluate its functions to improve the user experience, a usability test was performed. This was done at my home out of convenience and due to current circumstances. This iPad app was chosen out of the two platforms I had performed heuristic evaluations on to perform the usability testing because it possessed a higher average in severity ratings overall. The usability testing involved three tasks which focused on navigating through all the video-related pages while deciphering certain buttons’ functions.
 
 [read more about the usability testing ➤](https://github.com/lyt251/DH110-TinaLy/blob/main/Assignment%202/README.md)
+
 
 
 ### User Research <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%209.30.23%20PM.png" width="100 px">
