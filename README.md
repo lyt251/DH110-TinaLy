@@ -36,8 +36,11 @@ The purpose of my project is to allow senior citizens a more accessible, easy-to
 
 <div style="text-align:center">
 <img src=”https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/mindful.jpeg” width=”300px”> 
+  </div>
+  
+  <div style="text-align:center">
 <img src=”https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/mindfulwebmain.png” width=”300px”> 
-</div>
+  </div>
 
 I analyzed two different forms of wellness related platforms, in particular, an iPad app called *Mindful Living Network* and a website called *Mindful*. Both though did not possess the most ideal features for user control, consistent design, nor helped the user recover from error.  The website was more information-oriented with articles and many busy visuals. On the other hand, the Mindful Living application provides meditation videos in addition to podcasts, daily quotes, and relevant articles. 
 
