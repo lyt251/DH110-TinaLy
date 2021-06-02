@@ -44,11 +44,13 @@ To better assess the flaws and evaluate its functions to improve the user experi
 
 Some traditional solutions are simply hobbies like knitting and baking but there have been more meditation technological applications, such as Calm, made to address the issue of maintaining one’s mental health. Many may watch videos on platforms like YouTube but these applications themselves are not specifically geared towards senior citizens. With digital technology, streaming meditation videos and getting well-being tips can be centralized and more accessible on the go with the range of potential audiences also being much greater. The advanced technology such as AI and VR today can also be incorporated to create a more engaging and interactive experience. 
 
-<p align="center">
+*A quote from my participant:*
+
 "[T]he geriatric population aren't exactly technology inclined, and they're sometimes hard of hearing, or they can't see very well. So things need to be you know, visually, like larger or the sound needs to be louder for them to be able to use these platforms" 
-</p>
+
 
 [read more about the user research ➤](https://github.com/lyt251/DH110-TinaLy/blob/main/Assignment%203/Assignment%203.md)
+
 
 
 ### UX Storytelling <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%209.30.23%20PM.png" width="100 px">
