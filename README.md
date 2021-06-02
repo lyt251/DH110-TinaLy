@@ -1,11 +1,9 @@
 <img src="https://raw.githubusercontent.com/lyt251/DH110-TinaLy/main/Screen%20Shot%202021-06-01%20at%209.21.19%20PM.png" width="600 px">
 
 
-## Tina Ly
+## Tina Ly | [Pitch Video](https://drive.google.com/file/d/1Rw7X2SGASr9u21JUuEIQCySyMTEmKNjh/view?usp=sharing)
 
-[**>> View Pitch Video <<**](https://drive.google.com/file/d/1Rw7X2SGASr9u21JUuEIQCySyMTEmKNjh/view?usp=sharing) 
-
-<img src="http://g.recordit.co/HB1J2HbkMZ.gif" width="1000 px"> 
+<img src="http://g.recordit.co/HB1J2HbkMZ.gif" width="300 px"><img src="http://g.recordit.co/HB1J2HbkMZ.gif" width="300 px"><img src="http://g.recordit.co/HB1J2HbkMZ.gif" width="300 px">
 
 
 
@@ -226,5 +224,9 @@ During my usability tests, I found many relied on the visual changes in buttons 
 * Prototype with components.
 
  I learned several technical skills in regards to prototyping and prototyping with components was one of them. I was not able to utilize a lot of compoents due to having wireframed most of the screens before realizing making components would be more effective. Consequently, when designing in the future, I would want to plan out all buttons and their states ahead of time along with the general layout that will be consistently used. This would have speeded the process when editing the titles of the buttons so I would have to manually go in and edit each one for each screen.
+
+
+
+<img src="http://g.recordit.co/HB1J2HbkMZ.gif" width="300 px"><img src="http://g.recordit.co/HB1J2HbkMZ.gif" width="300 px"><img src="http://g.recordit.co/HB1J2HbkMZ.gif" width="300 px">
  
  
