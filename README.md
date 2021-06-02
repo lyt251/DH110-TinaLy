@@ -18,7 +18,7 @@ With these special, stressful times and there being so much going on, it is impo
 <p align="center">・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・</p>
 
 <p align="center">
-Specifically, how can we create a platform that tailors to the elderly population that is easy to use and navigate?
+Specifically, how can we create a platform tailoring to the elderly population so that it is easy to use and navigate?
 </p>
 
 <p align="center">・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・</p>
